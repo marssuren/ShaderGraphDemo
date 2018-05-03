@@ -1,0 +1,5 @@
+Base path: D:/DevTools/Unity/Unity2018.1/InsFolder/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=15322 outsize=5089 ok=1
+Cmd: initializeCompiler
